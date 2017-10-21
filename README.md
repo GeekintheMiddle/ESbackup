@@ -3,7 +3,7 @@ Backup/Restore/Migration tool for Elasticsearch
 
 This tool will help to create compressed elasticsearch backups and restores.
 
-This tool is based on elasticdump. Credits to the builders of this tool. https://github.com/taskrabbit/elasticsearch-dump
+This tool is based on elasticdump. Credits to the builders of elasticdump. https://github.com/taskrabbit/elasticsearch-dump
 
 ### How to install
 
